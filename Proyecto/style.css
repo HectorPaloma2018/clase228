@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+</head>
+<body>
+	{p
+	<background: red;>
+	}
+
+	{#identificacionborder: 1px;
+	background: red; 
+	}
+
+<p id="hola"> </p>
+{.lista_negra
+background: black;
+}
+</body>

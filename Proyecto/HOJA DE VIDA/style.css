@@ -1,0 +1,21 @@
+.titulo{
+	color: black; 
+	text-align: center;
+}
+.subtitulo{
+	color: black;
+	text-align: center;
+}
+.caja {
+	margin: 10px
+	border: 2px;
+	background: #58ACFA;
+} 
+#identificacion {
+	border: 3px;
+	background: #2E64FE;
+}
+body {
+	color: black; 
+	background: #D8D8D8;
+}

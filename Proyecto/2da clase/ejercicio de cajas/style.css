@@ -1,0 +1,48 @@
+ .caja1 div {
+ 	background: red;
+ 	margin: 10px;
+ }
+  .dis_none {
+ 	display: none;
+ }
+ .dis_block {
+ 	display: block;
+ }
+.dis_inline {
+	display: inline; 
+}
+.dis_inlineblock {
+	display: inline_block;
+}
+.over {
+	width: 100px;
+	height: 100px;
+}
+.hidden {
+	overflow: hidden;
+}
+.auto {
+	overflow: auto;
+}
+.col6 {
+	width: 48%;
+	float: left; 
+}
+.col12 {
+	width: 98%;
+	background: red;
+}
+.col3 {
+	width: 23%;
+	background: red;
+	float: left;
+}
+.row {
+	background: red;
+	position: relative;
+}
+.div{
+	justify-content: center;
+	align-items: center;
+	display: flex;
+}
